@@ -11,15 +11,6 @@ Currently exploring everything from systems and compilers to games and UI design
 **Databases:** MySQL · Oracle  
 **Tools:** Git · Figma · Canva · Android Studio · VS Code · NetBeans · Jupyter Notebook · Google Cloud Platform
 
----
-
-## 🚀 What I've Been Building
-
-- 🔤 Programming languages and compilers
-- 🏘️ Systems built for real community use
-- 🎮 Games across different genres and mechanics
-- 🎵 Concept apps with interactive and visual interfaces
-- 🌐 Digital Soulscape: A personal archive of my academic odyssey and written works.
 
 ---
 
