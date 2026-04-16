@@ -9,7 +9,7 @@ Currently exploring everything from systems to games and UI design.
 
 **Languages:** Java · Python · C · C++ · JavaScript · HTML · CSS  
 **Databases:** MySQL · Oracle  
-**Tools:** Git · Figma · Canva · Android Studio · VS Code · NetBeans · Jupyter Notebook · Google Cloud Platform
+**Tools:** Git · Figma · Canva · Android Studio · VS Code · NetBeans 
 
 
 ---
