@@ -1,7 +1,7 @@
 # Hi, I'm Nina! 👋
 
 Third-year CS student at PLM who loves turning ideas into working software.
-Currently exploring everything from systems and compilers to games and UI design.
+Currently exploring everything from systems to games and UI design.
 
 ---
 
